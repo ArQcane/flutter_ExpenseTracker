@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124809170306",
+    "project_id": "dummy-firebase-expense-tracker",
+    "storage_bucket": "dummy-firebase-expense-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124809170306:android:dd30a7d393f0e00afcd39b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mini_project_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124809170306-9co7ee9dnr9t8fau4pvsbjfm1i0cqru3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrhXwSImAmxzdkfoKgZf_uFLBu6Yb6NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124809170306-9co7ee9dnr9t8fau4pvsbjfm1i0cqru3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
